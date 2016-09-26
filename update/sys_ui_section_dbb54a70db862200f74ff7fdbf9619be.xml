@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="dbb54a70db862200f74ff7fdbf9619be" sys_domain="global" table="x_74406_marketing_marketing_event" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>0ecfde38db862200f74ff7fdbf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>budget</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>8ecfde38db862200f74ff7fdbf9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>02cfde38db862200f74ff7fdbf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>82cfde38db862200f74ff7fdbf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>06cfde38db862200f74ff7fdbf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>86cfde38db862200f74ff7fdbf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sponsor</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 15:30:39</sys_created_on>
+            <sys_id>0acfde38db862200f74ff7fdbf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_74406_marketing_marketing_event" sys_domain="global" view="Default view">dbb54a70db862200f74ff7fdbf9619be</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 15:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_74406_marketing_marketing_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-21 13:36:52</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbb54a70db862200f74ff7fdbf9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_74406_marketing_marketing_event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_74406_marketing">34f00ab8db062200f74ff7fdbf9619e5</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">34f00ab8db062200f74ff7fdbf9619e5</sys_scope>
+            <sys_update_name>sys_ui_section_dbb54a70db862200f74ff7fdbf9619be</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-21 13:36:52</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

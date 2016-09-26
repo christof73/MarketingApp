@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>unload.demo</directory>
+        <documentkey>b1645e74db862200f74ff7fdbf9619fb</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_74406_marketing_marketing_event">
+    <x_74406_marketing_marketing_event action="INSERT_OR_UPDATE">
+        <budget>2000</budget>
+        <city>Dallas</city>
+        <end_date>2016-05-12</end_date>
+        <name>Dallas LUG</name>
+        <number_of_attendees_expected/>
+        <number_of_attendees_registered>3</number_of_attendees_registered>
+        <sponsor>Dallas Partners</sponsor>
+        <start_date>2016-05-09</start_date>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-21 14:41:41</sys_created_on>
+        <sys_id>b1645e74db862200f74ff7fdbf9619fb</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-23 16:12:09</sys_updated_on>
+    </x_74406_marketing_marketing_event>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-26 17:14:06</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>9e676822db022200f74ff7fdbf9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dallas LUG</sys_name>
+        <sys_package display_value="Marketing Events Application" source="x_74406_marketing">34f00ab8db062200f74ff7fdbf9619e5</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Events Application">34f00ab8db062200f74ff7fdbf9619e5</sys_scope>
+        <sys_update_name>sys_metadata_link_9e676822db022200f74ff7fdbf9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-26 17:14:06</sys_updated_on>
+        <tablename>x_74406_marketing_marketing_event</tablename>
+    </sys_metadata_link>
+</record_update>

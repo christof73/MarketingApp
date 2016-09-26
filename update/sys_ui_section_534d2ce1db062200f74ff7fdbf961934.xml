@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="New Section" section_id="534d2ce1db062200f74ff7fdbf961934" sys_domain="global" table="x_74406_marketing_marketing_event" version="3" view="Mobile">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-23 15:05:55</sys_created_on>
+            <sys_id>d74d2ce1db062200f74ff7fdbf961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_74406_marketing_marketing_event" sys_domain="global" view="3f3a3520db022200f74ff7fdbf9619a4">534d2ce1db062200f74ff7fdbf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-23 15:05:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-23 15:05:55</sys_created_on>
+            <sys_id>5b4d2ce1db062200f74ff7fdbf961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_74406_marketing_marketing_event" sys_domain="global" view="3f3a3520db022200f74ff7fdbf9619a4">534d2ce1db062200f74ff7fdbf961934</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-23 15:05:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_74406_marketing_marketing_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-09-23 15:05:55</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>534d2ce1db062200f74ff7fdbf961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Events Application" source="x_74406_marketing">34f00ab8db062200f74ff7fdbf9619e5</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Events Application">34f00ab8db062200f74ff7fdbf9619e5</sys_scope>
+            <sys_update_name>sys_ui_section_534d2ce1db062200f74ff7fdbf961934</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-09-23 15:05:55</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Mobile" name="Mobile">3f3a3520db022200f74ff7fdbf9619a4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
